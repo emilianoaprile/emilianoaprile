@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="60px" height="60px"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60px" height="60px"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60px" height="60px"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="60px" height="60px"/> 
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/194_Laravel-512.png" width="60px" height="60px"/> 
   <p align='center'><i>"The Code is everywhere" 👀</i></p>
   <img src='https://cdn.bestmovie.it/wp-content/uploads/2022/12/the-matrix.jpg' width='700px'>
   <p align='center'><strong>Descending into the binary code abyss, where each line becomes a choice.💡🚀</strong></p>
